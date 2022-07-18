@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MaxLevinskyi
+- 👋 Hi, I’m @Max
 - 👀 I’m interested in automation
 - 🌱 I’m currently learning github
 
